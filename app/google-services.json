@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179274049692",
+    "project_id": "storerealtimeheri",
+    "storage_bucket": "storerealtimeheri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179274049692:android:6da633d805be4f9839a559",
+        "android_client_info": {
+          "package_name": "com.example.storerealtimeheri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86Nm4bPQjh8M8YiRslK5sPuoMxydfdxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
